@@ -11,6 +11,7 @@ Still in development.
 Maintainer
 -------------
 Aaron Cooper (<aaron.cooper@solnet.co.nz>) (Ported original module to SS4)
+
 Nathan Cox (<nathan@flyingmonkey.co.nz>) (Original author)
 
 Requirements
