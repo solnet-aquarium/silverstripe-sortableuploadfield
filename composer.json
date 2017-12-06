@@ -27,6 +27,5 @@
 			"email": "aaron.cooper@solnet.co.nz"
 		}
 	],
-	"minimum-stability": "dev",
-	"prefer-stable": true
+	"minimum-stability": "dev"
 }
