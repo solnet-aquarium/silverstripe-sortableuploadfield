@@ -10,13 +10,13 @@ Still in development.
 
 Maintainer
 -------------
-
-Nathan Cox (<nathan@flyingmonkey.co.nz>)
+Aaron Cooper (<aaron.cooper@solnet.co.nz>) (Ported original module to SS4)
+Nathan Cox (<nathan@flyingmonkey.co.nz>) (Original author)
 
 Requirements
 ---------------
 
-SilverStripe 3.0+
+SilverStripe 4.0+
 
 
 Installation Instructions
@@ -25,7 +25,7 @@ Installation Instructions
 Via composer:
 
 ```
-composer require nathancox/sortableuploadfield
+composer require solnet-aquarium/silverstripe-sortableuploadfield
 ```
 
 Or manually download the module and place it in a folder in your site root.
@@ -84,4 +84,4 @@ You can change the name of the sort attribute with `$sortableField->setSortField
 Known Issues
 ------------
 
-[Issue Tracker](https://github.com/nathancox/silverstripe-sortableuploadfield/issues)
+[Issue Tracker](https://github.com/solnet-aquarium/silverstripe-sortableuploadfield/issues)
