@@ -9,6 +9,7 @@
 	],
 	"type": "silverstripe-vendormodule",
 	"require": {
+		"php": "^5.5.9 || ^7.0",
 		"silverstripe/framework": "^4@dev",
         	"silverstripe/vendor-plugin": "^1.0"
 	},
