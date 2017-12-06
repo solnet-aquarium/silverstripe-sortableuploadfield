@@ -16,6 +16,10 @@
 	"license": "BSD-3-Clause",
 	"authors": [
 		{
+			"name": "Nathan Cox",
+			"email": "me@nathan.net.nz"
+		},
+		{
 			"name": "Aaron Cooper",
 			"email": "aaron.cooper@solnet.co.nz"
 		}
